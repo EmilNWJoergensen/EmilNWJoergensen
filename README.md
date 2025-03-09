@@ -1,7 +1,24 @@
-## Hi there 👋
+# 👋 Welcome!
 
+Hi there! Welcome to my GitHub profile. I’m passionate about technology and constantly working on new projects in machine learning, data science, and DevOps. Explore my repositories to see what I’ve been up to!
+
+Currently looking for job oppurtunities and internships!
+
+
+## 🧑‍💻 About Me
+
+I am a Computer Science student with a focus on Machine Learning and Data Science at the University of Copenhagen. I have also spent one year as an exchange student in South Korea at Hanyang University, where I took a lot of courses that explored the fields of Data science and Machine Learning.
+
+I enjoy building projects that challenge me to learn new skills and dive deeper into the world of AI and development. My current projects involve applying machine learning to solve real-world problems, and I am actively expanding my portfolio.
+
+---
+
+## 🤝 Connect with Me
+
+- LinkedIn: (https://www.linkedin.com/in/emil-j%C3%B8rgensen/)
+- Email: emil@cje.dk
 <!--
-**EmilNWJoergensen/EmilNWJoergensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**XxHardcoreGamerxX/XxHardcoreGamerxX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
