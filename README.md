@@ -2,14 +2,17 @@
 
 Hi there! Welcome to my GitHub profile. I’m passionate about technology and constantly working on new projects in machine learning, data science, and DevOps. Explore my repositories to see what I’ve been up to!
 
-Currently looking for job oppurtunities and internships!
+Currently writing my Bachelors thesis about the implementation of Recommender Systems! 
+Open for internships and student positions!
 
 
 ## 🧑‍💻 About Me
 
 I am a Computer Science student with a focus on Machine Learning and Data Science at the University of Copenhagen. I have also spent one year as an exchange student in South Korea at Hanyang University, where I took a lot of courses that explored the fields of Data science and Machine Learning.
 
-I enjoy building projects that challenge me to learn new skills and dive deeper into the world of AI and development. My current projects involve applying machine learning to solve real-world problems, and I am actively expanding my portfolio.
+I enjoy building projects centered around Machine Learning, Data Science, Deep Learning and AI - And I plan to, once I have gotten a better understanding on those topics, to explore other topics such as Computer Vision, NLP and more! 
+
+Besides the tech, I enjoy working out, playing basketball (Lakers Fan!), nature, going to cafés and eating unhealthy things! And after a good workout, I will most likely be watching anime, netflix or minecraft! 
 
 ---
 
