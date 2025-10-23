@@ -2,8 +2,7 @@
 
 Hi there! Welcome to my GitHub profile. I’m passionate about technology and constantly working on new projects in machine learning, data science, and DevOps. Explore my repositories to see what I’ve been up to!
 
-Currently doing an internship at CERN, and working on my project StreamLLM - feel free to ask questions about it!
-Open for internships and student positions!
+Currently working as a student developer @ Københavns Kommune.
 
 
 ## 🧑‍💻 About Me
